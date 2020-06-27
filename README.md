@@ -12,7 +12,9 @@
 
 The project/game was based on tutorial provided by [Weibenfalk](https://github.com/weibenfalk/react-snake-starter-files). </br>
 In addition to original tutorial I put some basic styling, made logic to avoid collision with the walls and put a counter to have the score. </br>
-Not the most complex project, but it's an entertaining one on which you can see, practice Hooks and some spatial notion. For sure it worths the time.
+Not the most complex project, but it's an entertaining one on which you can see, practice Hooks and some spatial notion. For sure it worths the time. </br>
+
+It is deployed on Netlify and you can check [here](https://snakegamejvictor.netlify.app/).
 
 ## How to install and run:
 
